@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Emin\\Desktop\\backEndTasks\\mart28Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF308EF4-7241-466F-B928-5B69D838061A}|mart28Task\\mart28Task.csproj|c:\\users\\emin\\desktop\\backendtasks\\mart28task\\mart28task\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF308EF4-7241-466F-B928-5B69D838061A}|mart28Task\\mart28Task.csproj|solutionrelative:mart28task\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF308EF4-7241-466F-B928-5B69D838061A}|mart28Task\\mart28Task.csproj|c:\\users\\emin\\desktop\\backendtasks\\mart28task\\mart28task\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF308EF4-7241-466F-B928-5B69D838061A}|mart28Task\\mart28Task.csproj|solutionrelative:mart28task\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF308EF4-7241-466F-B928-5B69D838061A}|mart28Task\\mart28Task.csproj|c:\\users\\emin\\desktop\\backendtasks\\mart28task\\mart28task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF308EF4-7241-466F-B928-5B69D838061A}|mart28Task\\mart28Task.csproj|solutionrelative:mart28task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\mart28Task\\mart28Task\\Group.cs",
+              "RelativeDocumentMoniker": "mart28Task\\Group.cs",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\mart28Task\\mart28Task\\Group.cs",
+              "RelativeToolTip": "mart28Task\\Group.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwEMAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:09:12.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\mart28Task\\mart28Task\\Student.cs",
+              "RelativeDocumentMoniker": "mart28Task\\Student.cs",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\mart28Task\\mart28Task\\Student.cs",
+              "RelativeToolTip": "mart28Task\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:06:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\mart28Task\\mart28Task\\Program.cs",
               "RelativeDocumentMoniker": "mart28Task\\Program.cs",
               "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\mart28Task\\mart28Task\\Program.cs",
               "RelativeToolTip": "mart28Task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T07:06:12.227Z",
               "EditorCaption": ""

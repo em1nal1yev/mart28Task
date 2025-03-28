@@ -9,8 +9,23 @@ namespace mart28Task
     class Group
     {
         public int groupNo;
-        public int studentLimit;
+        private int studentLimit;
         Student[] students = new Student[0];
+
+        public int StudentLimit
+        {
+            get
+            {
+                return studentLimit;
+            }
+            set
+            {
+                if(value>=5 && value < 19)
+                {
+                    studentLimit = value;
+                }
+            }
+        }
 
         public bool CheckGropupNo(int groupNo)
         {
